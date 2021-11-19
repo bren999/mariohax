@@ -30,7 +30,7 @@ from maps.js, along with all subsequent functions (they will be loaded over-eage
 
 ### Cloud IDE
 
-[![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=Diogenesthecynic/FullScreenMario)
+[![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=bren999/mariohax)
 
 * Select `Preview > Project Index`.
 * Select `Preview > New Browser Tab`.
